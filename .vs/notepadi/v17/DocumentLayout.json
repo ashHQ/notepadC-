@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\M\\source\\repos\\notepad Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5649F6A-B9EF-4F16-AC92-0F972F26C91C}|notepadi\\notepadi.csproj|c:\\users\\m\\source\\repos\\notepad final\\notepadi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5649F6A-B9EF-4F16-AC92-0F972F26C91C}|notepadi\\notepadi.csproj|solutionrelative:notepadi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5649F6A-B9EF-4F16-AC92-0F972F26C91C}|notepadi\\notepadi.csproj|C:\\Users\\M\\source\\repos\\notepad Final\\notepadi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5649F6A-B9EF-4F16-AC92-0F972F26C91C}|notepadi\\notepadi.csproj|solutionrelative:notepadi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\M\\source\\repos\\notepad Final\\notepadi\\Form1.cs",
+              "RelativeDocumentMoniker": "notepadi\\Form1.cs",
+              "ToolTip": "C:\\Users\\M\\source\\repos\\notepad Final\\notepadi\\Form1.cs",
+              "RelativeToolTip": "notepadi\\Form1.cs",
+              "ViewState": "AQIAAAIBAAAAAAAAAAAUwBABAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T14:11:03.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\M\\source\\repos\\notepad Final\\notepadi\\Form1.cs",
+              "RelativeDocumentMoniker": "notepadi\\Form1.cs",
+              "ToolTip": "C:\\Users\\M\\source\\repos\\notepad Final\\notepadi\\Form1.cs [Design]",
+              "RelativeToolTip": "notepadi\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T12:57:21.619Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

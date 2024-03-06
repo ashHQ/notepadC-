@@ -1,0 +1,20 @@
+C:\Users\M\source\repos\notepadi\notepadi\bin\Debug\notepadi.exe.config
+C:\Users\M\source\repos\notepadi\notepadi\bin\Debug\notepadi.exe
+C:\Users\M\source\repos\notepadi\notepadi\bin\Debug\notepadi.pdb
+C:\Users\M\source\repos\notepadi\notepadi\obj\Debug\notepadi.csproj.AssemblyReference.cache
+C:\Users\M\source\repos\notepadi\notepadi\obj\Debug\notepadi.Properties.Resources.resources
+C:\Users\M\source\repos\notepadi\notepadi\obj\Debug\notepadi.csproj.GenerateResource.cache
+C:\Users\M\source\repos\notepadi\notepadi\obj\Debug\notepadi.csproj.CoreCompileInputs.cache
+C:\Users\M\source\repos\notepadi\notepadi\obj\Debug\notepadi.exe
+C:\Users\M\source\repos\notepadi\notepadi\obj\Debug\notepadi.pdb
+C:\Users\M\source\repos\notepadi\notepadi\obj\Debug\notepadi.Notepad.resources
+C:\Users\M\source\repos\notepad Final\notepadi\bin\Debug\notepadi.exe.config
+C:\Users\M\source\repos\notepad Final\notepadi\bin\Debug\notepadi.exe
+C:\Users\M\source\repos\notepad Final\notepadi\bin\Debug\notepadi.pdb
+C:\Users\M\source\repos\notepad Final\notepadi\obj\Debug\notepadi.csproj.AssemblyReference.cache
+C:\Users\M\source\repos\notepad Final\notepadi\obj\Debug\notepadi.Notepad.resources
+C:\Users\M\source\repos\notepad Final\notepadi\obj\Debug\notepadi.Properties.Resources.resources
+C:\Users\M\source\repos\notepad Final\notepadi\obj\Debug\notepadi.csproj.GenerateResource.cache
+C:\Users\M\source\repos\notepad Final\notepadi\obj\Debug\notepadi.csproj.CoreCompileInputs.cache
+C:\Users\M\source\repos\notepad Final\notepadi\obj\Debug\notepadi.exe
+C:\Users\M\source\repos\notepad Final\notepadi\obj\Debug\notepadi.pdb
